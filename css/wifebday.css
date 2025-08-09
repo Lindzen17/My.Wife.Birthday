@@ -59,7 +59,7 @@
       line-height: 1.6;
       font-weight: bolder;
       opacity: 100%;
-      background-image: url("../wifeimage/mywife.jpg"); /* your photo here */
+      background-image: url("../mywife.jpg"); /* your photo here */
       background-size: cover;
       margin-top: 0px;
       border-radius: 10px;
@@ -159,6 +159,7 @@
 
   
    
+
 
 
 
