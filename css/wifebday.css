@@ -53,7 +53,7 @@
     .letter.back {
       transform: rotateX(180deg);
       font: italic 1.2rem "Fira Sans",serif;
-      font-size: 1em;
+      font-size: 15px;
       color: #ffffff;
       text-shadow: 2px 2px 4px rgb(0, 0, 0);
       line-height: 1.6;
@@ -131,7 +131,7 @@
     font-family: Arial, Helvetica, sans-serif ;
     font-style: italic;
      }
-
+/*mobile-view*/
     @media (max-width: 480px) {
         .front {
           font-size: 1.6em;
@@ -158,6 +158,7 @@
 
   
    
+
 
 
 
