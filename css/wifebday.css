@@ -146,7 +146,7 @@
           height: 60px;
         }
       .letter.back{
-          font-size: 7px;   /* smaller font */
+          font-size: 2px;   /* smaller font */
           line-height: 1;  /* tighter spacing */
           padding: 8px;      /* less padding inside box */
         }
@@ -158,6 +158,7 @@
 
   
    
+
 
 
 
