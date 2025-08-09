@@ -176,12 +176,27 @@
           padding: 8px;      /* less padding inside box */
           background-position-x: center;
         }
+      .envelope{
+          .envelope {
+      width: 320px;
+      height: 420px;
+      margin-top: 50px;
+      background: #fff0f5;
+      border: 2px solid #000000;
+      border-radius: 15px;
+      position: relative;
+      cursor: pointer;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+      transition: transform 1s ease;
+      transform-style: preserve-3d;
+      }
     }
 
 
 
   
    
+
 
 
 
