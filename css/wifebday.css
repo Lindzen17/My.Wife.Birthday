@@ -53,7 +53,7 @@
     .letter.back {
       transform: rotateX(180deg);
       font: italic 1.2rem "Fira Sans",serif;
-      font-size: 8px;
+      font-size: 6px;
       color: #ffffff;
       text-shadow: 2px 2px 4px rgb(0, 0, 0);
       line-height: 1.6;
@@ -158,6 +158,7 @@
 
   
    
+
 
 
 
