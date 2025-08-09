@@ -155,7 +155,7 @@
         }
       }
 
-    @media screen and (min-width: 992px) {
+    @media screen and (min-width: 800px) {
         .front {
           font-size: 1.6em;
         }
@@ -196,6 +196,7 @@
 
   
    
+
 
 
 
