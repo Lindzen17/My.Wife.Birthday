@@ -107,6 +107,7 @@
       margin-top: -10px;
     }
     video {
+        height: 40%;
         width: 100%;
         max-width: 600px;
         border-radius: 15px;
@@ -199,6 +200,7 @@
 
   
    
+
 
 
 
