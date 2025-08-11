@@ -157,13 +157,13 @@
           padding: 8px;      /* less padding inside box */
           background-position-x: center;
         }
-      .bdayvids{
-          margin-top: 10px;
-          height: 20%;
-          width: 100%;
-          max-width: 600px;
-          border-radius: 15px;
-          box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+      video {
+        height: 30%;
+        width: 100%;
+        max-width: 600px;
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        margin-top: 100px;
             
       }
           
@@ -211,6 +211,7 @@
 
   
    
+
 
 
 
