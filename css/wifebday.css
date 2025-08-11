@@ -157,6 +157,9 @@
           padding: 8px;      /* less padding inside box */
           background-position-x: center;
         }
+      .bdayvids{
+          margin-top: 100px;
+          
       }
 
     @media screen and (min-width: 800px) {
@@ -200,6 +203,7 @@
 
   
    
+
 
 
 
