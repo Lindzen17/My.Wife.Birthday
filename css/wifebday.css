@@ -134,13 +134,16 @@
     @media (max-width: 480px) {
         .front {
           font-size: 1.6em;
-          margin-top: 10px;
+          margin-top: 50px;
         }
-  
+        
+        html {
+          overflow-y: scroll;
+        }
         .back {
           font-size: 10px;
           background-image: center;
-          margin-top: 10px;
+          margin-top: 50px;
         }
   
         .back img {
@@ -200,6 +203,7 @@
 
   
    
+
 
 
 
