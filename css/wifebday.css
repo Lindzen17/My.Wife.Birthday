@@ -107,7 +107,7 @@
         max-width: 600px;
         border-radius: 15px;
         box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-        margin-top: 100px;
+        margin-top: 10px;
       }
     /* Footer */
     .footer {
@@ -134,7 +134,7 @@
     @media (max-width: 480px) {
         .front {
           font-size: 1.6em;
-          margin-top: 50px;
+          
         }
         
         html {
@@ -143,7 +143,7 @@
         .back {
           font-size: 10px;
           background-image: center;
-          margin-top: 50px;
+          
         }
   
         .back img {
@@ -157,15 +157,7 @@
           padding: 8px;      /* less padding inside box */
           background-position-x: center;
         }
-      video {
-        height: 30%;
-        width: 100%;
-        max-width: 600px;
-        border-radius: 15px;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-        margin-top: 100px;
-            
-      }
+   
           
       }
         
@@ -211,6 +203,7 @@
 
   
    
+
 
 
 
