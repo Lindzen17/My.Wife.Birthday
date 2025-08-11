@@ -107,7 +107,7 @@
         max-width: 600px;
         border-radius: 15px;
         box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-        margin-top: 10px;
+        margin-top: 100px;
       }
     /* Footer */
     .footer {
@@ -133,8 +133,8 @@
 /*mobile-view*/
     @media (max-width: 480px) {
         .front {
-          font-size: 1.6em;
-          
+        font-size: 1.6em;
+        
         }
         
         html {
@@ -203,6 +203,7 @@
 
   
    
+
 
 
 
