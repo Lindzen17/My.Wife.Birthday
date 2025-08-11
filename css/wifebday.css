@@ -101,7 +101,10 @@
       opacity: 100%;
       margin-top: -10px;
     }
-  
+    .bdayvids{
+      height: 30%;
+    }
+
     video {
         height: 30%;
         width: 100%;
@@ -200,6 +203,7 @@
 
   
    
+
 
 
 
