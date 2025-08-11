@@ -91,11 +91,6 @@
       background: #B67233;
     }
 
-    audio {
-      position: absolute;
-      bottom: 20px;
-    }
-
     img {
       
       width: 60px;
@@ -139,11 +134,13 @@
     @media (max-width: 480px) {
         .front {
           font-size: 1.6em;
+          margin-top: 10px;
         }
   
         .back {
           font-size: 10px;
           background-image: center;
+          margin-top: 10px;
         }
   
         .back img {
@@ -158,7 +155,7 @@
           background-position-x: center;
         }
       .bdayvids{
-          margin-top: 100px;
+          margin-top: 10px;
           
       }
 
@@ -203,6 +200,7 @@
 
   
    
+
 
 
 
