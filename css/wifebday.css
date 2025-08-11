@@ -102,7 +102,7 @@
       margin-top: -10px;
     }
     video {
-        height: 40%;
+        height: 100%;
         width: 100%;
         max-width: 600px;
         border-radius: 15px;
@@ -137,9 +137,6 @@
         
         }
         
-        html {
-          overflow-y: scroll;
-        }
         .back {
           font-size: 10px;
           background-image: center;
@@ -203,6 +200,7 @@
 
   
    
+
 
 
 
