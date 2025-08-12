@@ -13,7 +13,7 @@
       overflow: hidden;
       flex-direction: column;
       width: 100vw;
-      overflow: scroll;
+      overflow: hidden;
       
     }
 
@@ -29,7 +29,7 @@
       box-shadow: 0 8px 20px rgba(0,0,0,0.2);
       transition: transform 1s ease;
       transform-style: preserve-3d;
-      margin-top: 30px;
+    
     }
 
     .envelope.opened {
@@ -207,6 +207,7 @@
 
   
    
+
 
 
 
