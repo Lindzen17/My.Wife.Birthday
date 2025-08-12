@@ -129,7 +129,7 @@
         width: 100%;
         max-width: 1000px;
         border-radius: 15px;
-        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        box-shadow: 0 5px 15px rgba(0,0,0,0.5);
         margin-top: 30px;
       }
     /* Footer */
@@ -175,7 +175,7 @@
         .envelope{
           width: 80%;
           background-size: 860px 755px;
-          background-position: -250px -200px;
+          background-position: -250px -250px;
         }
         video{
           height: 50%;
@@ -241,6 +241,7 @@
 
   
    
+
 
 
 
