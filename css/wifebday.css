@@ -13,6 +13,7 @@
       overflow: hidden;
       flex-direction: column;
       width: 100vw;
+      overflow: scroll;
       
     }
 
@@ -206,6 +207,7 @@
 
   
    
+
 
 
 
