@@ -29,7 +29,7 @@
       top: 220px;
       background-image: url("../css/wifeimage/envelope1.webp");
       background-size: 1460px 1155px;
-      background-position: -450px -510px;
+      background-position: -350px -410px;
       border: 2px solid #000000;
       border-radius: 15px;
       position: relative;
@@ -175,7 +175,7 @@
         .envelope{
           width: 80%;
           background-size: 860px 755px;
-          background-position: -350px -410px;
+          background-position: -250px -310px;
         }
         video{
           height: 50%;
@@ -242,6 +242,7 @@
 
   
    
+
 
 
 
