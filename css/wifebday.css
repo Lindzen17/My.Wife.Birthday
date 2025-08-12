@@ -64,7 +64,7 @@
       opacity: 100%;
       background-image: url("../mywife.jpg"); /* your photo here */
       background-size: cover;
-      margin-top: 0px;
+      margin-top: 10px;
       border-radius: 10px;
       width: 100%;
       height: 100%;
@@ -108,7 +108,7 @@
         max-width: 600px;
         border-radius: 15px;
         box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-        margin-top: 70px;
+        margin-top: 150px;
       }
     /* Footer */
     .footer {
@@ -207,6 +207,7 @@
 
   
    
+
 
 
 
