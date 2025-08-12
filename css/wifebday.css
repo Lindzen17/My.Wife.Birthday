@@ -174,7 +174,7 @@
         }
         .envelope{
           width: 80%;
-          background-size: 1460px 1155px;
+          background-size: 360px 155px;
           background-position: -350px -410px;
         }
         video{
@@ -182,7 +182,8 @@
           width: 80%;
           border-radius: 15px;
           box-shadow: 0 5px 15px rgba(0,0,0,0.3);  
-          margin-top: -100px;
+          margin-top: 10px;
+          margin-left: 20px; 
         }      
         .back img {
           margin-top: 15px;
@@ -241,6 +242,7 @@
 
   
    
+
 
 
 
