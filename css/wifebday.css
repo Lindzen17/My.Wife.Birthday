@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans&display=swap');
+
+  
+   html, body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Open Sans', sans-serif;
+      background-image: url("../css/wifeimage/me and my wife.jpg");
+      background-size: contain;
+      background-repeat: repeat-x;
+      background-position: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      overflow-x: hidden;
+      flex-direction: column;
+      width: 100vw; 
+    }
+    .the_evenelope{ 
+      width: 100%;
+      height: 100%;
+
+    }
+
+    .envelope {
+      width: 30%;
+      height: 100%;
+      top: 220px;
+      background-image: url("../css/wifeimage/envelope1.webp");
+      background-size: 1460px 1155px;
+      background-position: -350px -410px;
+      border: 2px solid #000000;
+      border-radius: 15px;
+      position: relative;
+      cursor: pointer;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+      transition: transform 1s ease;
+      transform-style: preserve-3d;
+      
+    
+    }
+
+    .envelope.opened {
+      transform: rotateX(180deg);
+      height: 100%;
+     
+      
+       }
+    .letter.front{
+      margin-top: 150px;
+    }
+    .letter {
+      position: absolute;
+      top: 0px;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      padding: 20px;
+      box-sizing: border-box;
+      font-family: 'Great Vibes', cursive;
+      font-size: 1.5em;
+      color: #000000;
+      text-align: center;
+      backface-visibility: hidden;
+    }
+
+    .letter.back {
+      transform: rotateX(180deg);
+      font: italic 1.2rem "Fira Sans",serif;
+      font-size: 15px;
+      color: #ffffff;
+      text-shadow: 2px 2px 4px rgb(0, 0, 0);
+      line-height: 1.6;
+      font-weight: bolder;
+      opacity: 100%;
+      position: relative;
+      background-image: url("../mywife.jpg"); /* your photo here */
+      background-size: cover;
+      margin-top: 0;
+      border-radius: 10px;
+      height: 100%;
+      
+
+    }
+
+    button {
+      margin-top: 230px;
+      padding: 10px 20px;
+      font-size: 2em;
+      border: none;
+      background: #ff002b;
+      color: white;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: background 0.3s;
+      font-weight: lighter;
+      font-family: 'Great Vibes', cursive;
+      text-shadow: 1px 1px black;
+      position: relative;
+     
+    }
+
+    button:hover {
+      background: #B67233;
+    }
+
+    img {
+      
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #fff;
+      opacity: 100%;
+      margin-top: -10px;
+    }
+   .bdayvids{
+      margin-left: 60%;
+      margin-bottom: 0px;
+      margin-top: 6%;
+      height: 60%;
+      width: 100%;
+      
+    
+   }
+    video {
+        height: 80%;
+        width: 100%;
+        max-width: 1000px;
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        margin-top: 30px;
+      }
+    /* Footer */
+    .footer {
+    background: radial-gradient(circle, #862633 0%, #B67233 100%);
+    color: white;
+    padding: 15px 10px;
+    text-align: center;
+    width: 100%;
+    margin-top: auto;
+     }
+  
+    .footer-content p {
+    margin: 5px 0;
+    font-size: 14px;
+     }
+  
+    .footer-content p:first-child {
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-style: italic;
+     }
+/*mobile-view*/
+    @media (max-width: 480px) {
+        .front {
+        font-size: 1.6em;
+        
+        }
+        
+        .back {
+          font-size: 10px;
+          background-image: center;
+          
+        }
+        video{
+          height: 50%;
+          width: 80%;
+          border-radius: 15px;
+          box-shadow: 0 5px 15px rgba(0,0,0,0.3);  
+          margin-top: 30px;
+        }
+        .back img {
+          margin-top: 15px;
+          width: 30px;
+          height: 30px;
+        }
+      .letter.back{
+          font-size: 7.5px;   /* smaller font */
+          line-height: 1.3;  /* tighter spacing */
+          padding: 8px;      /* less padding inside box */
+          background-position-x: center;
+        }
+   
+          
+      }
+        
+
+    @media screen and (min-width: 800px) {
+        .front {
+          font-size: 1.6em;
+        }
+  
+        .back {
+          font-size: 10px;
+          background-image: center;
+        }
+  
+        .back img {
+          margin-top: 15px;
+          width: 30px;
+          height: 30px;
+        }
+      .letter.back{
+          font-size: 12px;   /* smaller font */
+          line-height: 1.3;  /* tighter spacing */
+          padding: 8px;      /* less padding inside box */
+          background-position-x: center;
+        }
+      .envelope{
+          .envelope {
+      width: 320px;
+      height: 100%;
+      margin-top: 50px;
+      background: #fff0f5;
+      border: 2px solid #000000;
+      border-radius: 15px;
+      position: relative;
+      cursor: pointer;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+      transition: transform 1s ease;
+      transform-style: preserve-3d;
+      }
+    }
+  }
+
+
+  
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
