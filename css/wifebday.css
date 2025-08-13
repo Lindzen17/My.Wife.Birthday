@@ -25,7 +25,8 @@
 
     .envelope {
      
-      
+      background-size: 1460px 1055px;
+      background-position: -350px -410px;
       border: 2px solid #000000;
       border-radius: 15px;
       position: relative;
@@ -237,6 +238,7 @@
 
   
    
+
 
 
 
