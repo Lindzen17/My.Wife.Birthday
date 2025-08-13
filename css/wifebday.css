@@ -25,10 +25,7 @@
 
     .envelope {
      
-      top: 220px;
-      background-image: url("../css/wifeimage/envelope1.webp");
-      background-size: 1460px 1155px;
-      background-position: -350px -410px;
+      
       border: 2px solid #000000;
       border-radius: 15px;
       position: relative;
@@ -240,6 +237,7 @@
 
   
    
+
 
 
 
