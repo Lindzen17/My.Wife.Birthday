@@ -17,14 +17,16 @@
       flex-direction: column;
       width: 100vw; 
     }
-    .the_evenelope{ 
+    .the_envelope{ 
       width: 100%;
       height: 100%;
 
     }
 
     .envelope {
-     
+      width: 50%
+      height: 30%;
+      background-image: url("../css/wifeimage/envelope1.webp");
       background-size: 1460px 1055px;
       background-position: -350px -410px;
       border: 2px solid #000000;
@@ -238,6 +240,7 @@
 
   
    
+
 
 
 
