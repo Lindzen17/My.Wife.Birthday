@@ -28,7 +28,7 @@
       height: 80%;
       top: 220px;
       background-image: url("../css/wifeimage/envelope1.webp");
-      background-size: 1460px 1055px;
+      background-size: 460px 155px;
       background-position: -350px -410px;
       border: 2px solid #000000;
       border-radius: 15px;
@@ -173,8 +173,8 @@
           width: 100%;
         }
         .envelope {
-          width: 70%;
-          height: 50%;
+          width: 100%;
+          height: 100%;
           background-size: 860px 870px;
           background-position: -250px -220px;
           margin-left: 30%;
@@ -243,6 +243,7 @@
 
   
    
+
 
 
 
