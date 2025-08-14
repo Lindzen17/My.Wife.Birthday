@@ -173,10 +173,10 @@
           width: 100%;
         }
         .envelope {
-          width: 60%;
+          width: 80%;
           height: 100%;
           background-size: 860px 870px;
-          background-position: -220px -220px;
+          background-position: -220px -29 0px;
           margin-left: 5%;
         }
         video{
@@ -243,6 +243,7 @@
 
   
    
+
 
 
 
