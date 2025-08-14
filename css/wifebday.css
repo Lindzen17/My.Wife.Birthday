@@ -169,14 +169,14 @@
           
         }
         .the_evenelope {
-          height:  50%;
+          height:  100%;
           width: 100%;
         }
         .envelope {
           width: 70%;
           height: 50%;
           background-size: 860px 870px;
-          background-position: -250px -260px;
+          background-position: -250px -220px;
           margin-left: 30%;
         }
         video{
@@ -243,6 +243,7 @@
 
   
    
+
 
 
 
